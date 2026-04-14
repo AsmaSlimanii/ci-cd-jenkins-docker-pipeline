@@ -43,3 +43,5 @@ README.md
 Asma Slimani — Junior DevOps Engineer
 LinkedIn : https://www.linkedin.com/in/asma-slimani-4a732a296/
 GitHub : https://github.com/AsmaSlimanii
+## Pipeline Screenshot
+![CI/CD Pipeline Success](pipeline-success.png)
